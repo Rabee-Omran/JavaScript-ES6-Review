@@ -1,3 +1,3 @@
 # JavaScript ES6 Review
-# Remeber Some Stuff ..
+## Remember Some Stuff ..
  
